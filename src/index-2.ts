@@ -1,3 +1,5 @@
+/*
+
 //Utility types
 
 interface User {
@@ -50,3 +52,5 @@ const stock: ProductStock = {
     2: 5,
     3: 0
 }
+
+*/

@@ -1,3 +1,5 @@
+/*
+
 // const age: number = 22;
 // const username: string = 'John Doe';
 // const isAdmin: boolean = true;
@@ -246,3 +248,5 @@ function createUser(email: string, role: Role): User {
 
 const user = createUser("user@mail.com", "user")
 console.log(user);
+
+ */

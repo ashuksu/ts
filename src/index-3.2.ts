@@ -1,3 +1,5 @@
+/*
+
 // # Generic-function
 
 // works with different types.
@@ -64,3 +66,5 @@ function fetchData<T>(data: T): ApiResult<T> {
 const result2 = fetchData(['a', 'b']); // result: ApiResult<string[]>, T = string[]
 
 // console.log(result2); // result2.data → string[]
+
+ */

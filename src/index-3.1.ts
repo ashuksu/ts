@@ -1,3 +1,5 @@
+/*
+
 function identity<T>(value: T): T {
     return value
 }
@@ -77,6 +79,4 @@ const userResponse: ApiResponse<User> = {
     status: 200
 }
 
-
-
-
+*/
